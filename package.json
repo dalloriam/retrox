@@ -1,0 +1,22 @@
+{
+    "name": "retrox",
+    "displayName": "retrox",
+    "description": "Retro Color Theme",
+    "repository": "https://github.com/dalloriam/retrox",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Retrox",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Retrox-color-theme.json"
+            }
+        ]
+    }
+}
